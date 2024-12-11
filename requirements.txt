@@ -1,0 +1,8 @@
+langchain==0.3.10
+langchain-community==0.3.10
+langchain-openai==0.2.12
+openpyxl==3.1.5
+pandas==2.2.3
+pandas-gbq==0.24.0
+python-dotenv==1.0.1
+tqdm==4.66.5
